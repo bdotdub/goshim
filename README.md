@@ -2,7 +2,7 @@
 
 A Go dependency management system inspired by Bundler and rbenv.
 
-```go
+```sh
 # Download and install goshim
 go get github.com/kevin-cantwell/goshim
 
